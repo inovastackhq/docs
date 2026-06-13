@@ -11,6 +11,7 @@ Centralized documentation and code snippets.
 - Flutter
 - Go
 - Laravel
+- Nuxt
 - PostgreSQL
 
 ## Purpose
